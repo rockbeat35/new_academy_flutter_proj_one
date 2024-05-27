@@ -126,7 +126,7 @@ class _SolarSystemHomePageState extends State<SolarSystemHomePage> {
         }
         },
         backgroundColor: Colors.orange,
-        shape: CircleBorder(),
+        shape: const CircleBorder(),
         child: const Icon(
           Icons.add,
         ),
